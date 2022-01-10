@@ -10,6 +10,6 @@
 
 ## [MSc Management Project](https://github.com/Auckland68/Arun-Travel-Reviews-Analysis)
 
-## [Dimensionality Reduction]()
+## [Dimensionality Reduction](https://github.com/Auckland68/DimensionalityReduction)
 
 ## [Other Projects and Techniques]()
