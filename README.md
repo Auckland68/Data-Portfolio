@@ -9,5 +9,3 @@ Data Science Portfolio
 
 ## [MSc Management Project](https://github.com/Auckland68/Arun-Travel-Reviews-Analysis)
 
-## Other Natural Language Processing Projects
-
