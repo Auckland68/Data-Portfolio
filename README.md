@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-![](keyboard.jpg)
+![](alienward.jpg)
 
 ## [Regression Projects](https://github.com/Auckland68/LinearRegression)
 
