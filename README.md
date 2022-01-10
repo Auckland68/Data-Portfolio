@@ -1,5 +1,4 @@
-# Imogen's Portfolio
-## Data Science Portfolio
+# Imogen's Data Science Portfolio
 
 ## [Regression Projects](https://github.com/Auckland68/LinearRegression)
 
