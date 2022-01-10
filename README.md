@@ -5,7 +5,7 @@ Data Science Portfolio
 
 ## [Classification Projects](https://github.com/Auckland68/Classification)
 
-## Unsupervised Learning Projects
+## [Unsupervised Learning Projects](https://github.com/Auckland68/Clustering)
 
 ## Natural Language Processing
 
