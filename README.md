@@ -12,4 +12,4 @@
 
 ## [Dimensionality Reduction](https://github.com/Auckland68/DimensionalityReduction)
 
-## [Other Projects and Techniques]()
+## [Other Projects and Techniques](https://github.com/Auckland68/Other-Techniques)
