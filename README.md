@@ -1,7 +1,7 @@
 # Imy_portfolio
 Data Science Portfolio
 
-## Regression Projects
+## [Regression Projects](https://github.com/Auckland68/LinearRegression)
 
 ## Classification Projects
 
