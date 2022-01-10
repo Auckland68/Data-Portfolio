@@ -1,6 +1,5 @@
 # Data Science Portfolio
 
-<img src="image.png" width="200" height="100">
 ![](/images/alienware.jpg)
 
 ## [Regression Projects](https://github.com/Auckland68/LinearRegression)
