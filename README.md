@@ -4,7 +4,7 @@
 
 ## [Classification Projects](https://github.com/Auckland68/Classification)
 
-## [Unsupervised Learning Projects](https://github.com/Auckland68/Clustering)
+## [Clustering Projects](https://github.com/Auckland68/Clustering)
 
 ## [MSc Management Project](https://github.com/Auckland68/Arun-Travel-Reviews-Analysis)
 
