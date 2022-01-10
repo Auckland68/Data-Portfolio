@@ -2,7 +2,7 @@
 
 ## [Regression](https://github.com/Auckland68/LinearRegression)
 
-## [Classifications](https://github.com/Auckland68/Classification)
+## [Classification](https://github.com/Auckland68/Classification)
 
 ## [Clustering](https://github.com/Auckland68/Clustering)
 
