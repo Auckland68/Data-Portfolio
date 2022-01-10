@@ -1,14 +1,14 @@
 # Imy_portfolio
 Data Science Portfolio
 
-# Regression Projects
+## Regression Projects
 
-# Classification Projects
+## Classification Projects
 
-# Unsupervised Learning Projects
+## Unsupervised Learning Projects
 
-# Natural Language Processing
+## Natural Language Processing
 
-# Computer Vision
+## Computer Vision
 
-# Other
+## Other
