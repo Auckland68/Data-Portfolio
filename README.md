@@ -6,6 +6,8 @@
 
 ## [Clustering Projects](https://github.com/Auckland68/Clustering)
 
+## [Natural Language Processing](https://github.com/Auckland68/NLPModels)
+
 ## [MSc Management Project](https://github.com/Auckland68/Arun-Travel-Reviews-Analysis)
 
-## [Natural Language Processing](https://github.com/Auckland68/NLPModels)
+
