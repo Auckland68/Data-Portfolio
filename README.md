@@ -1,5 +1,7 @@
 # Data Science Portfolio
 
+![alt text](keyboard.jpg)
+
 ## [Regression Projects](https://github.com/Auckland68/LinearRegression)
 
 ## [Classification Projects](https://github.com/Auckland68/Classification)
