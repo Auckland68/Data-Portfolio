@@ -12,6 +12,6 @@
 
 ## [Dimensionality Reduction](https://github.com/Auckland68/DimensionalityReduction)
 
-## [Time Series and Forecasting]()
+## [Time Series and Forecasting](https://github.com/Auckland68/TimeSeriesModelling)
 
 ## [Other Projects and Techniques](https://github.com/Auckland68/Other-Techniques)
