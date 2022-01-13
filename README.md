@@ -1,4 +1,4 @@
-![](alienware.jpg)
+![](/images/alienware.jpg)
 
 # Data Science Portfolio
 
