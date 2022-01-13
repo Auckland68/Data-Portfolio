@@ -16,6 +16,6 @@
 
 ## [MSc Management Project](https://github.com/Auckland68/Arun-Travel-Reviews-Analysis)
 
-## [MSc Course Assessments]()
+## [MSc Assessments](https://github.com/Auckland68/MScAssessments)
 
 
