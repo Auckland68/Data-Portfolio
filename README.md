@@ -8,10 +8,14 @@
 
 ## [Natural Language Processing](https://github.com/Auckland68/NLPModels)
 
-## [MSc Management Project](https://github.com/Auckland68/Arun-Travel-Reviews-Analysis)
-
 ## [Dimensionality Reduction](https://github.com/Auckland68/DimensionalityReduction)
 
 ## [Time Series and Forecasting](https://github.com/Auckland68/TimeSeriesModelling)
 
 ## [Other Projects and Techniques](https://github.com/Auckland68/Other-Techniques)
+
+## [MSc Management Project](https://github.com/Auckland68/Arun-Travel-Reviews-Analysis)
+
+## [MSc Course Assessments]()
+
+
