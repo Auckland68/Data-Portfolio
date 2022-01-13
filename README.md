@@ -1,3 +1,5 @@
+![](alienware.jpg)
+
 # Data Science Portfolio
 
 ## [Regression](https://github.com/Auckland68/LinearRegression)
