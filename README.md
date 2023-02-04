@@ -10,7 +10,7 @@
 
 ## [Natural Language Processing](https://github.com/Auckland68/NLPModels)
 
-## [AB Testing] (https://github.com/Auckland68/AB-Testing)
+## [AB Testing](https://github.com/Auckland68/AB-Testing)
 
 ## [Computer Vision](https://github.com/Auckland68/Computer-Vision)
 
