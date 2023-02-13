@@ -12,6 +12,8 @@
 
 ## [AB Testing](https://github.com/Auckland68/AB-Testing)
 
+## [Power BI Dashboard PDFs](https://github.com/Auckland68/PowerBIDashboards)
+
 ## [Computer Vision](https://github.com/Auckland68/Computer-Vision)
 
 ## [Dimensionality Reduction](https://github.com/Auckland68/DimensionalityReduction)
