@@ -2,28 +2,30 @@
 
 # Data Science Portfolio
 
-## [Regression](https://github.com/Auckland68/LinearRegression)
+## Links to notebooks containing data science projects
 
-## [Classification](https://github.com/Auckland68/Classification)
+### [Regression](https://github.com/Auckland68/LinearRegression)
 
-## [Clustering](https://github.com/Auckland68/Clustering)
+### [Classification](https://github.com/Auckland68/Classification)
 
-## [Natural Language Processing](https://github.com/Auckland68/NLPModels)
+### [Clustering](https://github.com/Auckland68/Clustering)
 
-## [AB Testing](https://github.com/Auckland68/AB-Testing)
+### [Natural Language Processing](https://github.com/Auckland68/NLPModels)
 
-## [Power BI Projects](https://github.com/Auckland68/PowerBIDashboards)
+### [AB Testing](https://github.com/Auckland68/AB-Testing)
 
-## [Computer Vision](https://github.com/Auckland68/Computer-Vision)
+### [Power BI Projects](https://github.com/Auckland68/PowerBIDashboards)
 
-## [Dimensionality Reduction](https://github.com/Auckland68/DimensionalityReduction)
+### [Computer Vision](https://github.com/Auckland68/Computer-Vision)
 
-## [Time Series and Forecasting](https://github.com/Auckland68/TimeSeriesModelling)
+### [Dimensionality Reduction](https://github.com/Auckland68/DimensionalityReduction)
 
-## [Other Projects and Techniques](https://github.com/Auckland68/Other-Techniques)
+### [Time Series and Forecasting](https://github.com/Auckland68/TimeSeriesModelling)
 
-## [MSc Management Project](https://github.com/Auckland68/Arun-Travel-Reviews-Analysis)
+### [Other Projects and Techniques](https://github.com/Auckland68/Other-Techniques)
 
-## [MSc Assessments](https://github.com/Auckland68/MScAssessments)
+### [MSc Management Project](https://github.com/Auckland68/Arun-Travel-Reviews-Analysis)
+
+### [MSc Assessments](https://github.com/Auckland68/MScAssessments)
 
 
