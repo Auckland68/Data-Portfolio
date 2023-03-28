@@ -2,7 +2,7 @@
 
 # Data Science Portfolio
 
-## Links to notebooks containing data science projects
+## Jupyter notebooks - data science projects
 
 ### [Regression](https://github.com/Auckland68/LinearRegression)
 
