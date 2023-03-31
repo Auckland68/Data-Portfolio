@@ -1,6 +1,6 @@
 ![](/images/alienware.jpg)
 
-# Data Science Portfolio Notebooks
+# Data Science Notebooks
 
 ### [Regression](https://github.com/Auckland68/LinearRegression)
 
