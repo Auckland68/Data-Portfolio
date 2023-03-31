@@ -1,8 +1,6 @@
 ![](/images/alienware.jpg)
 
-# Data Science Portfolio
-
-## Jupyter notebooks - data science projects
+# Data Science Portfolio Notebooks
 
 ### [Regression](https://github.com/Auckland68/LinearRegression)
 
