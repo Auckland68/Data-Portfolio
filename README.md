@@ -6,13 +6,13 @@
 
 ### [Classification](https://github.com/Auckland68/Classification)
 
+### [Time Series and Forecasting](https://github.com/Auckland68/TimeSeriesModelling)
+
 ### [Clustering](https://github.com/Auckland68/Clustering)
 
 ### [Natural Language Processing](https://github.com/Auckland68/NLPModels)
 
 ### [OpenAI ChatGPT and DALLE Projects](https://github.com/Auckland68/OpenAIProjects)
-
-### [AB Testing](https://github.com/Auckland68/AB-Testing)
 
 ### [Power BI Projects](https://github.com/Auckland68/PowerBIDashboards)
 
@@ -20,12 +20,12 @@
 
 ### [Dimensionality Reduction](https://github.com/Auckland68/DimensionalityReduction)
 
-### [Time Series and Forecasting](https://github.com/Auckland68/TimeSeriesModelling)
+### [AB Testing](https://github.com/Auckland68/AB-Testing)
 
-### [Other Projects and Techniques](https://github.com/Auckland68/Other-Techniques)
+### [Other Projects](https://github.com/Auckland68/Other-Techniques)
 
-### [MSc Management Project](https://github.com/Auckland68/Arun-Travel-Reviews-Analysis)
+### [MSc Project](https://github.com/Auckland68/Arun-Travel-Reviews-Analysis)
 
-### [MSc Assessments](https://github.com/Auckland68/MScAssessments)
+### [Assessments](https://github.com/Auckland68/MScAssessments)
 
 
