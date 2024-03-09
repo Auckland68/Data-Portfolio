@@ -16,7 +16,7 @@
 
 ### [Power BI Projects](https://github.com/Auckland68/PowerBIDashboards)
 
-### [Computer Vision](https://github.com/Auckland68/Computer-Vision)
+### [Image Models](https://github.com/Auckland68/Computer-Vision)
 
 ### [Dimensionality Reduction](https://github.com/Auckland68/DimensionalityReduction)
 
