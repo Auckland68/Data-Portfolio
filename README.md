@@ -1,6 +1,3 @@
-![](/images/alienware.jpg)
-
-
 
 ### [Regression](https://github.com/Auckland68/LinearRegression)
 
