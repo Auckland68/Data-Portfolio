@@ -10,7 +10,7 @@
 
 ### [Natural Language Processing](https://github.com/Auckland68/NLPModels)
 
-### [OpenAI ChatGPT and DALLE Projects](https://github.com/Auckland68/OpenAIProjects)
+### [OpenAI ChatGPT and DALLE](https://github.com/Auckland68/OpenAIProjects)
 
 ### [Power BI Projects](https://github.com/Auckland68/PowerBIDashboards)
 
