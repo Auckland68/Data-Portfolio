@@ -1,4 +1,4 @@
-![](/images/laptopalienware.png)
+![](/images/laptop2.png)
 
 ### [Regression](https://github.com/Auckland68/LinearRegression)
 
