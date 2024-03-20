@@ -1,4 +1,4 @@
-<img src="https://github.com/Auckland68/Data-Science-Portfolio/blob/main/images/laptopalienware2.png" width="100" height="100">
+<img src="https://github.com/Auckland68/Data-Science-Portfolio/blob/main/images/laptopalienware2.png" width="150" height="150">
 
 ### [Regression](https://github.com/Auckland68/LinearRegression)
 
