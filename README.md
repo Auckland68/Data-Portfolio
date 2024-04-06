@@ -26,4 +26,6 @@
 
 ### [Assessments](https://github.com/Auckland68/MScAssessments)
 
+### [Data Analytics Bootcamp](https://github.com/Auckland68/DataAnalyticsBootcamp)
+
 
