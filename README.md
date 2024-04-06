@@ -24,7 +24,7 @@
 
 ### [MSc Project](https://github.com/Auckland68/Arun-Travel-Reviews-Analysis)
 
-### [Assessments](https://github.com/Auckland68/MScAssessments)
+### [MSc Assessments](https://github.com/Auckland68/MScAssessments)
 
 ### [Data Analytics Bootcamp](https://github.com/Auckland68/DataAnalyticsBootcamp)
 
