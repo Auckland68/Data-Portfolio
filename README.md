@@ -18,8 +18,6 @@
 
 ### [Dimensionality Reduction](https://github.com/Auckland68/DimensionalityReduction)
 
-### [AB Testing](https://github.com/Auckland68/AB-Testing)
-
 ### [Visualisation and Other Projects](https://github.com/Auckland68/Other-Techniques)
 
 ### [MSc Project](https://github.com/Auckland68/Arun-Travel-Reviews-Analysis)
