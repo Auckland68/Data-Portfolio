@@ -24,6 +24,6 @@
 
 ### [MSc Assessments](https://github.com/Auckland68/MScAssessments)
 
-### [Data Analytics](https://github.com/Auckland68/Data Analysis)
+### [Data Analytics](https://github.com/Auckland68/Data-Analysis)
 
 
