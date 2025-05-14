@@ -1,18 +1,22 @@
 ![](/images/AmendedLaptopImage.jpg)
 
-### [Regression](https://github.com/Auckland68/LinearRegression)
+### [Data Analytics](https://github.com/Auckland68/Data-Analysis)
 
-### [Classification](https://github.com/Auckland68/Classification)
+### [SQL](https://github.com/Auckland68/SQLProjects)
+
+### [Power BI Projects](https://github.com/Auckland68/PowerBIDashboards)
 
 ### [Time Series and Forecasting](https://github.com/Auckland68/TimeSeriesModelling)
-
-### [Clustering](https://github.com/Auckland68/Clustering)
 
 ### [Natural Language Processing](https://github.com/Auckland68/NLPModels)
 
 ### [OpenAI ChatGPT and DALLE](https://github.com/Auckland68/OpenAIProjects)
 
-### [Power BI Projects](https://github.com/Auckland68/PowerBIDashboards)
+### [Regression](https://github.com/Auckland68/LinearRegression)
+
+### [Classification](https://github.com/Auckland68/Classification)
+
+### [Clustering](https://github.com/Auckland68/Clustering)
 
 ### [Image Models](https://github.com/Auckland68/Computer-Vision)
 
@@ -24,6 +28,4 @@
 
 ### [MSc Assessments](https://github.com/Auckland68/MScAssessments)
 
-### [Data Analytics](https://github.com/Auckland68/Data-Analysis)
 
-### [SQL](https://github.com/Auckland68/SQLProjects)
