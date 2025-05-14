@@ -1,6 +1,6 @@
 ![](/images/AmendedLaptopImage.jpg)
 
-### [Personal Projects](https://github.com/Auckland68/Data-Analysis)
+### [Analytics Projects](https://github.com/Auckland68/Data-Analysis)
 
 ### [SQL](https://github.com/Auckland68/SQLProjects)
 
