@@ -8,6 +8,8 @@
 
 ### [Time Series and Forecasting](https://github.com/Auckland68/TimeSeriesModelling)
 
+### [MSc Data Science and Analytics](https://github.com/Auckland68/MScDataScience/tree/main)
+
 ### [Natural Language Processing](https://github.com/Auckland68/NLPModels)
 
 ### [OpenAI ChatGPT and DALLE](https://github.com/Auckland68/OpenAIProjects)
