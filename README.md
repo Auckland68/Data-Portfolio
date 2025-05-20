@@ -8,7 +8,7 @@
 
 ### [Time Series and Forecasting](https://github.com/Auckland68/TimeSeriesModelling)
 
-### [MSc Data Science and Analytics](https://github.com/Auckland68/MScDataScience/blob/main/README.md)
+### [MSc Data Science and Analytics](https://github.com/Auckland68/MScDataScience)
 
 ### [Natural Language Processing](https://github.com/Auckland68/NLPModels)
 
