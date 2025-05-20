@@ -2,13 +2,13 @@
 
 ### [Analysis Projects](https://github.com/Auckland68/Data-Analysis)
 
-### [SQL](https://github.com/Auckland68/SQLProjects)
+### [MSc Data Science and Analytics](https://github.com/Auckland68/MScDataScience)
 
 ### [Power BI Projects](https://github.com/Auckland68/PowerBIDashboards)
 
-### [Time Series and Forecasting](https://github.com/Auckland68/TimeSeriesModelling)
+### [SQL](https://github.com/Auckland68/SQLProjects)
 
-### [MSc Data Science and Analytics](https://github.com/Auckland68/MScDataScience)
+### [Time Series and Forecasting](https://github.com/Auckland68/TimeSeriesModelling)
 
 ### [Natural Language Processing](https://github.com/Auckland68/NLPModels)
 
