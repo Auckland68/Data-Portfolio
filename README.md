@@ -1,6 +1,6 @@
 ![](/images/AmendedLaptopImage.jpg)
 
-### [Analysis Projects](https://github.com/Auckland68/Data-Analysis)
+### [Data Analysis](https://github.com/Auckland68/Data-Analysis)
 
 ### [MSc Data Science and Analytics](https://github.com/Auckland68/MScDataScience)
 
