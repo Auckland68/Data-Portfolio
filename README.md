@@ -16,7 +16,7 @@
 
 ### [Image Models](https://github.com/Auckland68/Computer-Vision)
 
-### [Other Techniques](https://github.com/Auckland68/Other-Techniques)
+### [Other Projects](https://github.com/Auckland68/Other-Projects/blob/main/README.md)
 
 
 
