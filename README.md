@@ -8,11 +8,11 @@
 
 ### [MSc Data Science and Analytics Projects](https://github.com/Auckland68/MScDataScience)
 
-### [Time Series and Forecasting](https://github.com/Auckland68/TimeSeriesModelling)
-
 ### [Natural Language Processing](https://github.com/Auckland68/Natural-Language-Processing)
 
 ### [Machine Learning Models](https://github.com/Auckland68/ML-Models/blob/main/README.md)
+
+### [Time Series and Forecasting](https://github.com/Auckland68/TimeSeriesModelling)
 
 ### [Image Models](https://github.com/Auckland68/Computer-Vision)
 
