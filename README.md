@@ -14,6 +14,8 @@
 
 ### [OpenAI ChatGPT and DALLE](https://github.com/Auckland68/OpenAIProjects)
 
+### [Machine Learning Models](https://github.com/Auckland68/ML-Models/blob/main/README.md)
+
 ### [Regression](https://github.com/Auckland68/LinearRegression)
 
 ### [Classification](https://github.com/Auckland68/Classification)
