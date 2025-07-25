@@ -22,6 +22,5 @@
 
 ### [Visualisation and Other Projects](https://github.com/Auckland68/Other-Techniques)
 
-### [MSc Work](https://github.com/Auckland68/Arun-Travel-Reviews-Analysis)
 
 
