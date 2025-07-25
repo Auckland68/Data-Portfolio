@@ -10,7 +10,7 @@
 
 ### [Time Series and Forecasting](https://github.com/Auckland68/TimeSeriesModelling)
 
-### [Natural Language Processing](https://github.com/Auckland68/NLPModels)
+### [Natural Language Processing](https://github.com/Auckland68/Natural-Language-Processing)
 
 ### [Machine Learning Models](https://github.com/Auckland68/ML-Models/blob/main/README.md)
 
