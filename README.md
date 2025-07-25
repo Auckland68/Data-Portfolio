@@ -20,7 +20,7 @@
 
 ### [Dimensionality Reduction](https://github.com/Auckland68/DimensionalityReduction)
 
-### [Visualisation and Other Projects](https://github.com/Auckland68/Other-Techniques)
+### [Other Techniques](https://github.com/Auckland68/Other-Techniques)
 
 
 
