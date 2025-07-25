@@ -16,8 +16,6 @@
 
 ### [Image Models](https://github.com/Auckland68/Computer-Vision)
 
-### [Dimensionality Reduction](https://github.com/Auckland68/DimensionalityReduction)
-
 ### [Other Techniques](https://github.com/Auckland68/Other-Techniques)
 
 
