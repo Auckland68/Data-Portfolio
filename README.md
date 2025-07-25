@@ -12,8 +12,6 @@
 
 ### [Natural Language Processing](https://github.com/Auckland68/NLPModels)
 
-### [OpenAI ChatGPT and DALLE](https://github.com/Auckland68/OpenAIProjects)
-
 ### [Machine Learning Models](https://github.com/Auckland68/ML-Models/blob/main/README.md)
 
 ### [Image Models](https://github.com/Auckland68/Computer-Vision)
