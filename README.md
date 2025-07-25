@@ -16,12 +16,6 @@
 
 ### [Machine Learning Models](https://github.com/Auckland68/ML-Models/blob/main/README.md)
 
-### [Regression](https://github.com/Auckland68/LinearRegression)
-
-### [Classification](https://github.com/Auckland68/Classification)
-
-### [Clustering](https://github.com/Auckland68/Clustering)
-
 ### [Image Models](https://github.com/Auckland68/Computer-Vision)
 
 ### [Dimensionality Reduction](https://github.com/Auckland68/DimensionalityReduction)
