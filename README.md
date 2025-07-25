@@ -6,7 +6,7 @@
 
 ### [SQL](https://github.com/Auckland68/SQLProjects)
 
-### [MSc Data Science and Analytics](https://github.com/Auckland68/MScDataScience)
+### [MSc Data Science and Analytics Projects](https://github.com/Auckland68/MScDataScience)
 
 ### [Time Series and Forecasting](https://github.com/Auckland68/TimeSeriesModelling)
 
