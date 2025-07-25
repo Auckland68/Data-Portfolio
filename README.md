@@ -2,11 +2,11 @@
 
 ### [Data Analysis](https://github.com/Auckland68/Data-Analysis)
 
-### [MSc Data Science and Analytics](https://github.com/Auckland68/MScDataScience)
-
 ### [Power BI](https://github.com/Auckland68/PowerBIDashboards)
 
 ### [SQL](https://github.com/Auckland68/SQLProjects)
+
+### [MSc Data Science and Analytics](https://github.com/Auckland68/MScDataScience)
 
 ### [Time Series and Forecasting](https://github.com/Auckland68/TimeSeriesModelling)
 
