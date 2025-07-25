@@ -4,7 +4,7 @@
 
 ### [MSc Data Science and Analytics](https://github.com/Auckland68/MScDataScience)
 
-### [Power BI Projects](https://github.com/Auckland68/PowerBIDashboards)
+### [Power BI](https://github.com/Auckland68/PowerBIDashboards)
 
 ### [SQL](https://github.com/Auckland68/SQLProjects)
 
