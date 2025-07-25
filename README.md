@@ -1,6 +1,6 @@
 ![](/images/AmendedLaptopImage.jpg)
 
-## Welcome to my Data Portfolio. Click the links to see some of the projects I have completed.
+
 
 ### [Data Analysis](https://github.com/Auckland68/Data-Analysis)
 
