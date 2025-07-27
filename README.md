@@ -2,7 +2,7 @@
 
 
 
-### [Data Analysis](https://github.com/Auckland68/Data-Analysis)
+### [Data Analysis Projects](https://github.com/Auckland68/Data-Analysis)
 
 ### [MSc Data Science and Analytics Projects](https://github.com/Auckland68/MScDataScience)
 
