@@ -8,7 +8,7 @@
 
 ### [Natural Language Processing](https://github.com/Auckland68/Natural-Language-Processing)
 
-### [Machine Learning Models](https://github.com/Auckland68/ML-Models/blob/main/README.md)
+### [Other Machine Learning and Deep Learning Models](https://github.com/Auckland68/ML-Models/blob/main/README.md)
 
 ### [Power BI Dashboards](https://github.com/Auckland68/PowerBIDashboards)
 
