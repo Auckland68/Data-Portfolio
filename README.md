@@ -10,7 +10,7 @@
 
 ### [Other Machine Learning and Deep Learning Models](https://github.com/Auckland68/ML-Models/blob/main/README.md)
 
-### [Power BI Dashboards](https://github.com/Auckland68/PowerBIDashboards)
+### [Power BI](https://github.com/Auckland68/PowerBIDashboards)
 
 ### [Other Projects](https://github.com/Auckland68/Other-Projects/blob/main/README.md)
 
