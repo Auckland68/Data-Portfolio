@@ -2,7 +2,7 @@
 
 
 
-### [Substack Projects](https://github.com/Auckland68/SubstackProjects/blob/main/README.md)
+### [Substack Projects](https://github.com/Auckland68/Substack-Projects/edit/main/README.md)
 
 ### [MSc Data Science and Analytics Projects](https://github.com/Auckland68/MScDataScience)
 
